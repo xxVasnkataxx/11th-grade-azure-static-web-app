@@ -14,9 +14,9 @@
 - Fork the repo
 # Deployment
 ## Requirements
-- App should be available at ```yourDomain.azurewebsites.net```
+- App should be available at ```yourDomain.azurestaticapps.net```
 ## Hints
 - You should deploy via Github Repo
-- App preset should be ```React```
-- Build path is ```/dist```
+- Build preset should be ```React```
+- Build path is ```dist```
 - Most of the other settings don't matter
